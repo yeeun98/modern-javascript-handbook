@@ -54,6 +54,6 @@
 ---
 
 ### 📖 **[38장: 비동기 프로그래밍](./sections/38-async-programming.md)**
-- **프로미스(Promise)**와 `then`, `catch`의 동작 방식.
+- 프로미스(Promise)와 `then`, `catch`의 동작 방식.
 - **async/await**의 사용법과 비동기 처리에서의 에러 핸들링.
 
